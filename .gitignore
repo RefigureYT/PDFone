@@ -2,9 +2,7 @@
 venv/
 
 # Não incluir arquivos dentro de zip/, mas manter a pasta
-zip/*
-!zip/.gitkeep
+zip/*.zip
 
 # Não incluir arquivos dentro de output/, mas manter a pasta
-output/*
-!output/.gitkeep
+output/saida_unificada.pdf
